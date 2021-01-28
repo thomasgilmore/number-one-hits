@@ -11,3 +11,19 @@ h1 {
     font-size: 17px;
     margin: 20px 75px;
 }
+
+table {
+    margin: 20px auto;
+}
+
+th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+td {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+}
